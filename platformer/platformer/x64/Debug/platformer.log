@@ -1,0 +1,16 @@
+﻿  Game.cpp
+C:\Users\jurij\Desktop\platformer\platformer\platformer\Map.h(31,29): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+  Player.cpp
+C:\Users\jurij\Desktop\platformer\platformer\platformer\Map.h(31,29): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Player.cpp')
+  
+C:\Users\jurij\Desktop\platformer\platformer\platformer\Player.cpp(54,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jurij\Desktop\platformer\platformer\platformer\Player.cpp(55,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jurij\Desktop\platformer\platformer\platformer\Player.cpp(56,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jurij\Desktop\platformer\platformer\platformer\Player.cpp(59,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  platformer.vcxproj -> C:\Users\jurij\Desktop\platformer\platformer\x64\Debug\platformer.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
